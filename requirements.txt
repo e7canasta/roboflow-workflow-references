@@ -1,0 +1,21 @@
+# Core dependencies
+numpy>=1.21.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+requests>=2.25.0
+packaging>=21.0
+
+# Workflow engine dependencies
+pydantic>=1.8.0
+typing-extensions>=4.0.0
+
+# Optional dependencies for notebooks
+jupyter>=1.0.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Development dependencies
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.8.0
+isort>=5.0.0
