@@ -1,6 +1,6 @@
 # Roboflow Workflow References
 
-Este repositorio contiene implementaciones de referencia y ejemplos para trabajar con Roboflow Workflows.
+Referencias e implementaciones para Roboflow Workflows.
 
 ## Estructura del Proyecto
 
@@ -21,7 +21,7 @@ Este repositorio contiene implementaciones de referencia y ejemplos para trabaja
 ## Instalación
 
 ```bash
-git clone <este-repositorio>
+git clone https://github.com/e7canasta/roboflow-workflow-references.git
 cd roboflow-workflow-references
 pip install -r requirements.txt
 ```
